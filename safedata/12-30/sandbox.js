@@ -1,6 +1,12 @@
 //alert("hello world!");
 
-
+// // 2015-12-30
+// src = 'https://raw.githubusercontent.com/bigdata-mindstorms/d3-playground/gh-pages/lzyforever/2015-12-30/sandbox.js';
+// d3.text(src, function (e, d) { 
+//   if(!e) {
+//     eval(d);
+//   }
+// })
 var dataset = [
               {x : 20, y : 30, r : 10}, 
               {x : 60, y : 30, r : 10}, 
