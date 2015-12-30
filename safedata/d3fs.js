@@ -1,4 +1,5 @@
-// use strict;
+"use strict";
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
 
 console.log(d3.scale);
     
