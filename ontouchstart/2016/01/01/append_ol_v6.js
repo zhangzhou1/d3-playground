@@ -1,6 +1,6 @@
 ol = body.append('ol');
 src = 'https://bigdata-mindstorms.github.io/d3-playground/ontouchstart/2016/01/01/data.yaml';
-d3.json(src, function (e, d) {
+d3.text(src, function (e, d) {
   if(!e) {
     ol.selectAll('li').data(js_yaml.load(d))
       .enter()
