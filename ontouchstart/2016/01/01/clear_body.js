@@ -1,0 +1,2 @@
+// clear body
+body.html('');
