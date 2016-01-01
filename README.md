@@ -6,7 +6,9 @@ This is the repo for [D3 playground](https://bigdata-mindstorms.github.io/d3-pla
 This is an open source class with BSD [LICENSE](LICENSE). Please do not put company/personal secret here or in the issues.
 
 
-## user sub directories
+## user home directories
+
+Note to student users: please do not to create/edit files outside your own home directory. Feel free to create deeper directories and can put links in the READEME.md files.
 
 - [FrostyLeaf](FrostyLeaf)
 - [aaron-suen](aaron-suen)
@@ -25,9 +27,9 @@ This is an open source class with BSD [LICENSE](LICENSE). Please do not put comp
 - [yangyi](yangyi)
 - [zhang-fei](zhang-fei)
 
-## user links
 
-You can add the entry to your sandbox pages here (this is the only place that ordinary member can edit, all other user changes should be in their own sub directories above) or the [discussion groups](https://github.com/bigdata-mindstorms/data-driven-documents/blob/master/README.md#discussion-groups). 
+## gh-pages
 
-
-- https://bigdata-mindstorms.github.io/d3-playground/ontouchstart/colorband.html
+This branch is setup as gh-pages, which means there is a mapping between each file in your folder and a web page URL: for example:
+[ontouchstart/colorband.html](ontouchstart/colorband.html) is mapped to this URL:
+https://bigdata-mindstorms.github.io/d3-playground/ontouchstart/colorband.html
