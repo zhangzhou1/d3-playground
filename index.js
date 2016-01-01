@@ -15,6 +15,7 @@ run_button = body.append('button')
 
 code = body.append('pre')
   .attr('contenteditable', true)
+  .style('white-space', 'pre-wrap')
   .style('padding','1em')
   .style('border','1px solid #CCC');
 
