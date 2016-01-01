@@ -3,7 +3,7 @@
 This is the repo for [D3 playground](https://bigdata-mindstorms.github.io/d3-playground/), the lab part of [data-driven-documents](https://github.com/bigdata-mindstorms/data-driven-documents), an open source class on Data Driven Documents.
 
 **Warning**
-This is an open source class with BSD [LICENSE](LICENSE). Please do not put company/personal secret here as well as in the issues.
+This is an open source class with BSD [LICENSE](LICENSE). Please do not put company/personal secret here or in the issues.
 
 
 ## user sub directories
