@@ -10,6 +10,6 @@ ol.selectAll('li').data(data)
   .html(function (item) {
     return item.name;
   })
-  .style('color', function (item) {
+  .style('background-color', function (item) {
     return item.color;
   })

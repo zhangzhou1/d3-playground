@@ -8,7 +8,7 @@ d3.text(src, function (e, d) {
       .html(function (item) {
         return item.name;
       })
-      .style('color', function (item) {
+      .style('background-color', function (item) {
         return item.color;
       });
   }});
