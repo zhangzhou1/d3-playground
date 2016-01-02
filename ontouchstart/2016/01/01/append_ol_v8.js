@@ -3,10 +3,10 @@ src = 'https://bigdata-mindstorms.github.io/d3-playground/ontouchstart/2016/01/0
 src_chinese = 'https://bigdata-mindstorms.github.io/d3-playground/ontouchstart/2016/01/01/data_chinese.yaml';
 function load(e, d) {
   if(!e) {
-    li.data(js_yaml.load(d))
-      .enter()
-      .append('li')
-      .html(function (item) {
+    selection = li.data(js_yaml.load(d));
+    selection.enter().append('li');
+    selection.exit().remove();
+    selection.html(function (item) {
         return item.name;
       })
       .style('background-color', function (item) {
