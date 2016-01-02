@@ -8,7 +8,7 @@ This is an open source class with BSD [LICENSE](LICENSE). Please do not put comp
 
 ## user home directories
 
-Note to student users: please do not create/edit files outside your own home directory. Feel free to create deeper directories and put links in the READEME.md files.
+Note to student users: please do not create/edit files outside your own home directory. Feel free to create deeper directories and put links in **your own** READEME.md files.
 
 - [FrostyLeaf](FrostyLeaf)
 - [aaron-suen](aaron-suen)
