@@ -33,6 +33,6 @@ Note to student users: please do not create/edit files outside your own home dir
 ## gh-pages
 
 This branch is setup as gh-pages, which means there is a mapping between each file in your folder and a web page URL: for example:
-[ontouchstart/2015-12-30/sandbox.js](ontouchstart/2015-12-30/sandbox.js) is mapped to this URL:
+[ontouchstart/2016/01/01/append_h1.js](ontouchstart/2016/01/01/append_h1.js) is mapped to this URL:
 
-https://bigdata-mindstorms.github.io/d3-playground/ontouchstart/2015-12-30/sandbox.js
+https://bigdata-mindstorms.github.io/d3-playground/ontouchstart/2016/01/01/append_h1.js
