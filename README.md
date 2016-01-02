@@ -14,6 +14,7 @@ Note to student users: please do not create/edit files outside your own home dir
 - [aaron-suen](aaron-suen)
 - [alpeai](alpeai)
 - [jhonyoung](jhonyoung)
+- [jiawuai](jiawuai)
 - [keeping-action](keeping-action)
 - [littleGauze](littleGauze)
 - [lzyforever](lzyforever)
