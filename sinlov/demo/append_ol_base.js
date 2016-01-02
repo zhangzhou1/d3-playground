@@ -9,7 +9,7 @@ function update(d) {
   selection.html(function (item) {
       return item.name;
     })
-    .style('background-color', function (item) {
+    .style('foreground-color', function (item) {
       return item.color;
     });
 }
