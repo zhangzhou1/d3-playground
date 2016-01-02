@@ -15,4 +15,6 @@ function load(e, d) {
   }
 };
 d3.text(src, load);
-d3.text(src_chinese, load);
+setTimeout(function () { 
+    d3.text(src_chinese, load); 
+  }, 1000);
