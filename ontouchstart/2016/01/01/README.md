@@ -12,3 +12,4 @@
 - [append_ol_v5](https://bigdata-mindstorms.github.io/d3-playground/#https://bigdata-mindstorms.github.io/d3-playground/ontouchstart/2016/01/01/append_ol_v5.js)
 - [append_ol_v6](https://bigdata-mindstorms.github.io/d3-playground/#https://bigdata-mindstorms.github.io/d3-playground/ontouchstart/2016/01/01/append_ol_v6.js)
 - [append_ol_v7](https://bigdata-mindstorms.github.io/d3-playground/#https://bigdata-mindstorms.github.io/d3-playground/ontouchstart/2016/01/01/append_ol_v7.js)
+- [append_ol_v8](https://bigdata-mindstorms.github.io/d3-playground/#https://bigdata-mindstorms.github.io/d3-playground/ontouchstart/2016/01/01/append_ol_v8.js)
