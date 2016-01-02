@@ -1,0 +1,6 @@
+- name: 书籍
+  color: blue
+- name: 书桌
+  color: yellow
+- name: 铅笔
+  color: black
