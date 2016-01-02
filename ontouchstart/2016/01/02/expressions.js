@@ -14,7 +14,7 @@ output = body.append('div')
   .style('margin', '0.5em')
   .style('padding', '0.5em');
 
-body.append('button')
+next_button = body.append('button')
   .html('next >')
   .on('click', next);
 
@@ -29,7 +29,7 @@ expression_list = [
 function next () {
   expression = expression_list.shift();
   if(expression_list.length < 1) { 
-    next.style('display', 'none');
+    next_button.style('display', 'none');
   };
   output.append('pre')
     .style('color', 'green')
