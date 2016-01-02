@@ -4,14 +4,14 @@ src_chinese = 'https://bigdata-mindstorms.github.io/d3-playground/ontouchstart/2
 
 function update(d) {
   selection = ol.selectAll('li').data(d);
+  selection.enter().append('li');
+  selection.exit().remove();
   selection.html(function (item) {
       return item.name;
     })
     .style('background-color', function (item) {
       return item.color;
     });
-  selection.enter().append('li');
-  selection.exit().remove();
 }
 
 function load(e, d) {
