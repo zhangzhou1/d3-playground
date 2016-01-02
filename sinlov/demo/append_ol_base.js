@@ -9,10 +9,14 @@ function update(d) {
   selection.html(function (item) {
       return item.name;
     })
-    .style('foreground-color', function (item) {
+    .style('color', function(item){
       return item.color;
+    })
+    .style('background-color', function (item) {
+      return item['background-color'];
     });
 }
+
 
 function load(e, d) {
   if(!e) {
