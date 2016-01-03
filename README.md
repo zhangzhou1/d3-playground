@@ -17,6 +17,7 @@ Note to student users: please do not create/edit files outside your own home dir
 - [jiawuai](jiawuai)
 - [keeping-action](keeping-action)
 - [littleGauze](littleGauze)
+- [lrl1225](lrl1225)
 - [lzyforever](lzyforever)
 - [ontouchstart](ontouchstart)
 - [safedata](safedata)
