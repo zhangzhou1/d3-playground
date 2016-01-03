@@ -25,6 +25,7 @@ Note to student users: please do not create/edit files outside your own home dir
 - [shuchun](shuchun)
 - [sinlov](sinlov)
 - [wendou](wendou)
+- [xinfeiwuyu](xinfeiwuyu)
 - [xujincan](xujincan)
 - [yanglong2](yanglong2)
 - [yangyi](yangyi)
